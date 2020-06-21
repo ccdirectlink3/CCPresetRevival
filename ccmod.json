@@ -1,7 +1,7 @@
 {
-  "name": "preset-revival",
-  "version": "1.0.3",
-  "ccmodHumanName": "Preset revival",
+  "id": "preset-revival",
+  "version": "2.0.0",
+  "title": "Preset revival",
   "description": "This brings back the preset menu, which allows you to start the game at a specific point",
   "homepage": "https://github.com/CCDirectLink/CCPresetRevival",
   "prestart": "prestart.js"
